@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GLUR-DEV
 
 My main languages are C/C++, C# and Python
+
 I'm a 14 yr old NZ'er and have no bitches
 
 <!---
