@@ -1,8 +1,7 @@
-Hi, I’m GLUR
+Hey, I code random shit
+You might even find some of it useful...
 
-My main languages are C/C++, C# and Python
-
-I'm a 15 yr old, from New Zealand.
+I'm 15 years old, from sheep country(NZ).
 
 <!---
 GLUR-DEV/GLUR-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
