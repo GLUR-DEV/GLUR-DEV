@@ -1,4 +1,4 @@
-Hey, I code random shit
+Hey, I code random shit and rape boys on the regular
 
 You might even find some of it useful...
 
