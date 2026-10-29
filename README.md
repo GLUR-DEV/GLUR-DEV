@@ -1,4 +1,4 @@
-## Hi, I'm Adam Lawrence 👋
+## Hi, I'm Adam
 
 I'm a Computer Science student at the University of Waikato in New Zealand. I like building Websites, Web apps, Plugins and Tools that automate boring stuff.
 
